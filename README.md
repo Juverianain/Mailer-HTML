@@ -1,3 +1,3 @@
 # Mailer-HTML
 
-https://github.com/Juverianain/Mailer-HTML/issues/1#issue-2227173709
+![Emailer copy](https://github.com/Juverianain/Mailer-HTML/assets/166102897/e3d1b63c-4949-43c4-920c-ffc23e452d27)
